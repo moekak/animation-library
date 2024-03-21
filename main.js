@@ -28,4 +28,4 @@ const toggleAnimation = ()=>{
 }
 
 
-module.exports = toggleAnimation
+export default toggleAnimation;

@@ -1,35 +1,4 @@
-main{
-    height: 500vh;
-    width: 100vw;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-}
-.position_bar{
-    width: 100%;
-    height: 70px;
-    background-color: pink;
-    position: absolute;
-    top: 200%;
-}
-.position_bar2{
-    width: 100%;
-    height: 70px;
-    background-color: green;
 
-   
-}
-
-.btn{
-    background-color: red;
-    position: fixed;
-    bottom: 5%;
-    left: 50%;
-    transform: translateX(-50%);
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-}
 
 .ani{
     opacity: 0;
